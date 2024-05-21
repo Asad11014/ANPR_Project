@@ -1,0 +1,12 @@
+names:
+- Plate
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: number_plate-4v9tn
+  url: https://universe.roboflow.com/real-people/number_plate-4v9tn/dataset/1
+  version: 1
+  workspace: real-people
+test: ../test/images
+train: Number_plate-1/train/images
+val: Number_plate-1/valid/images
